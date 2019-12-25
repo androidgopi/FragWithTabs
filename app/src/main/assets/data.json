@@ -1,0 +1,643 @@
+{
+  "data": {
+    "features": [
+      {
+        "id": "cjkhuxjif00640a350flr0m0h",
+        "name": "create mindmap",
+        "arabicName": "????? ????? ?????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTMM"
+      },
+      {
+        "id": "cjkhuy1hj006i0a355y1q9ih8",
+        "name": "COPY",
+        "arabicName": "??? ????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "COPY"
+      },
+      {
+        "id": "cjkhuy8dl006q0a35eedcgdzi",
+        "name": "Create Tabs",
+        "arabicName": "????? ????????",
+        "isActive": true,
+        "featuresType": "ELESSON",
+        "code": "ELECRTTAB"
+      },
+      {
+        "id": "cjkhwmjwd00o40a355x26mgi7",
+        "name": "Create lesson",
+        "arabicName": "????? ???",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTLS"
+      },
+      {
+        "id": "cjkhwmpl700o80a35xt7y045d",
+        "name": "Access Connect",
+        "arabicName": "?????? ??? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSCONT"
+      },
+      {
+        "id": "cjkhwmvtz00og0a35hvcyot8k",
+        "name": "Contact",
+        "arabicName": "???? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CNOTS"
+      },
+      {
+        "id": "cjkhwndi400ok0a35f8ibjm0o",
+        "name": "Access activity",
+        "arabicName": "???? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSACT"
+      },
+      {
+        "id": "cjkhwnm4s00oo0a35dr3sdewr",
+        "name": "Import",
+        "arabicName": "??? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "IMPT"
+      },
+      {
+        "id": "cjkhwnwxe00os0a35bti1vy4o",
+        "name": "OutBox",
+        "arabicName": "??????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "OUTBOX"
+      },
+      {
+        "id": "cjkhwo37900ow0a35zeo5x7xp",
+        "name": "Inbox",
+        "arabicName": "??????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "INXB"
+      },
+      {
+        "id": "cjkhwo9yy00p00a35i40dsy56",
+        "name": "Create Shelfs",
+        "arabicName": "????? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTFLD"
+      },
+      {
+        "id": "cjkhwoiwp00p40a3571cgv7z8",
+        "name": "Show Recent",
+        "arabicName": "??? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHWRCT"
+      },
+      {
+        "id": "cjkhwopjm00p80a35puywtul4",
+        "name": "Cloud",
+        "arabicName": "???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CLOUD"
+      },
+      {
+        "id": "cjkhwov3c00pc0a35fdhxyuib",
+        "name": "Create Book Template",
+        "arabicName": "????? ???? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTBKTM"
+      },
+      {
+        "id": "cjkhwp1ca00pg0a35svdwbifk",
+        "name": "Create Album",
+        "arabicName": "????? ?????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTALM"
+      },
+      {
+        "id": "cjkhwp6ab00pk0a354nw5cjja",
+        "name": "create book",
+        "arabicName": "????? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTBK"
+      },
+      {
+        "id": "cjkhwph4a00ps0a35ccbso659",
+        "name": "Create Web book",
+        "arabicName": "????? ???? ???",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTWBK"
+      },
+      {
+        "id": "cjkhwpsf900q00a35rfkkv8uz",
+        "name": "Calls",
+        "arabicName": "?????????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CALL"
+      },
+      {
+        "id": "cjkhwqd5n00qc0a35hzrqcf8o",
+        "name": "Access Recourse",
+        "arabicName": "????? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSRCS"
+      },
+      {
+        "id": "cjkhwqm6m00qg0a35b3ah68nq",
+        "name": "Shelf Search",
+        "arabicName": "????? ?? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHFSRCH"
+      },
+      {
+        "id": "cjkhwr0kf00qs0a35abr3kkdt",
+        "name": "Backup Restore",
+        "arabicName": "????? ?????????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "BKUP"
+      },
+      {
+        "id": "cjkhwrdps00r40a35l1mks1ql",
+        "name": "Save as PDF",
+        "arabicName": "??? ?? ?? ??",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SVEPDF"
+      },
+      {
+        "id": "cjkhwrlbt00r80a35t9yomdl8",
+        "name": "Print created Book",
+        "arabicName": "????? ?????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "PRTCBK"
+      },
+      {
+        "id": "cjkhwsqki00rx0a357qymeqzn",
+        "name": "Share",
+        "arabicName": "??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHRE"
+      },
+      {
+        "id": "cjkhwvx0w00sm0a354thkusmj",
+        "name": "Drawing",
+        "arabicName": "????? ??????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "DRAW"
+      },
+      {
+        "id": "cjkhww2tn00sr0a3519aab2l5",
+        "name": "Duplicate as Image",
+        "arabicName": "???? ?? ??????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "CRTDLBIMG"
+      }
+      
+    
+      
+    ],
+    "Apps": [
+      {
+        "id": "cjkhuxjif00640a350flr0m0h",
+        "name": "create mindmap",
+        "arabicName": "????? ????? ?????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTMM"
+      },
+      {
+        "id": "cjkhuy1hj006i0a355y1q9ih8",
+        "name": "COPY",
+        "arabicName": "??? ????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "COPY"
+      },
+      {
+        "id": "cjkhuy8dl006q0a35eedcgdzi",
+        "name": "Create Tabs",
+        "arabicName": "????? ????????",
+        "isActive": true,
+        "featuresType": "ELESSON",
+        "code": "ELECRTTAB"
+      },
+      {
+        "id": "cjkhwmjwd00o40a355x26mgi7",
+        "name": "Create lesson",
+        "arabicName": "????? ???",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTLS"
+      },
+      {
+        "id": "cjkhwmpl700o80a35xt7y045d",
+        "name": "Access Connect",
+        "arabicName": "?????? ??? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSCONT"
+      },
+      {
+        "id": "cjkhwmvtz00og0a35hvcyot8k",
+        "name": "Contact",
+        "arabicName": "???? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CNOTS"
+      },
+      {
+        "id": "cjkhwndi400ok0a35f8ibjm0o",
+        "name": "Access activity",
+        "arabicName": "???? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSACT"
+      },
+      {
+        "id": "cjkhwnm4s00oo0a35dr3sdewr",
+        "name": "Import",
+        "arabicName": "??? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "IMPT"
+      },
+      {
+        "id": "cjkhwnwxe00os0a35bti1vy4o",
+        "name": "OutBox",
+        "arabicName": "??????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "OUTBOX"
+      },
+      {
+        "id": "cjkhwo37900ow0a35zeo5x7xp",
+        "name": "Inbox",
+        "arabicName": "??????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "INXB"
+      },
+      {
+        "id": "cjkhwo9yy00p00a35i40dsy56",
+        "name": "Create Shelfs",
+        "arabicName": "????? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTFLD"
+      },
+      {
+        "id": "cjkhwoiwp00p40a3571cgv7z8",
+        "name": "Show Recent",
+        "arabicName": "??? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHWRCT"
+      },
+      {
+        "id": "cjkhwopjm00p80a35puywtul4",
+        "name": "Cloud",
+        "arabicName": "???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CLOUD"
+      },
+      {
+        "id": "cjkhwov3c00pc0a35fdhxyuib",
+        "name": "Create Book Template",
+        "arabicName": "????? ???? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTBKTM"
+      },
+      {
+        "id": "cjkhwp1ca00pg0a35svdwbifk",
+        "name": "Create Album",
+        "arabicName": "????? ?????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTALM"
+      },
+      {
+        "id": "cjkhwp6ab00pk0a354nw5cjja",
+        "name": "create book",
+        "arabicName": "????? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTBK"
+      },
+      {
+        "id": "cjkhwph4a00ps0a35ccbso659",
+        "name": "Create Web book",
+        "arabicName": "????? ???? ???",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTWBK"
+      },
+      {
+        "id": "cjkhwpsf900q00a35rfkkv8uz",
+        "name": "Calls",
+        "arabicName": "?????????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CALL"
+      },
+      {
+        "id": "cjkhwqd5n00qc0a35hzrqcf8o",
+        "name": "Access Recourse",
+        "arabicName": "????? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSRCS"
+      },
+      {
+        "id": "cjkhwqm6m00qg0a35b3ah68nq",
+        "name": "Shelf Search",
+        "arabicName": "????? ?? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHFSRCH"
+      },
+      {
+        "id": "cjkhwr0kf00qs0a35abr3kkdt",
+        "name": "Backup Restore",
+        "arabicName": "????? ?????????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "BKUP"
+      },
+      {
+        "id": "cjkhwrdps00r40a35l1mks1ql",
+        "name": "Save as PDF",
+        "arabicName": "??? ?? ?? ??",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SVEPDF"
+      },
+      {
+        "id": "cjkhwrlbt00r80a35t9yomdl8",
+        "name": "Print created Book",
+        "arabicName": "????? ?????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "PRTCBK"
+      },
+      {
+        "id": "cjkhwsqki00rx0a357qymeqzn",
+        "name": "Share",
+        "arabicName": "??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHRE"
+      },
+      {
+        "id": "cjkhwvx0w00sm0a354thkusmj",
+        "name": "Drawing",
+        "arabicName": "????? ??????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "DRAW"
+      },
+      {
+        "id": "cjkhww2tn00sr0a3519aab2l5",
+        "name": "Duplicate as Image",
+        "arabicName": "???? ?? ??????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "CRTDLBIMG"
+      }
+      
+    
+      
+    ],
+    "Purchases": [
+      {
+        "id": "cjkhuxjif00640a350flr0m0h",
+        "name": "create mindmap",
+        "arabicName": "????? ????? ?????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTMM"
+      },
+      {
+        "id": "cjkhuy1hj006i0a355y1q9ih8",
+        "name": "COPY",
+        "arabicName": "??? ????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "COPY"
+      },
+      {
+        "id": "cjkhuy8dl006q0a35eedcgdzi",
+        "name": "Create Tabs",
+        "arabicName": "????? ????????",
+        "isActive": true,
+        "featuresType": "ELESSON",
+        "code": "ELECRTTAB"
+      },
+      {
+        "id": "cjkhwmjwd00o40a355x26mgi7",
+        "name": "Create lesson",
+        "arabicName": "????? ???",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTLS"
+      },
+      {
+        "id": "cjkhwmpl700o80a35xt7y045d",
+        "name": "Access Connect",
+        "arabicName": "?????? ??? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSCONT"
+      },
+      {
+        "id": "cjkhwmvtz00og0a35hvcyot8k",
+        "name": "Contact",
+        "arabicName": "???? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CNOTS"
+      },
+      {
+        "id": "cjkhwndi400ok0a35f8ibjm0o",
+        "name": "Access activity",
+        "arabicName": "???? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSACT"
+      },
+      {
+        "id": "cjkhwnm4s00oo0a35dr3sdewr",
+        "name": "Import",
+        "arabicName": "??? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "IMPT"
+      },
+      {
+        "id": "cjkhwnwxe00os0a35bti1vy4o",
+        "name": "OutBox",
+        "arabicName": "??????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "OUTBOX"
+      },
+      {
+        "id": "cjkhwo37900ow0a35zeo5x7xp",
+        "name": "Inbox",
+        "arabicName": "??????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "INXB"
+      },
+      {
+        "id": "cjkhwo9yy00p00a35i40dsy56",
+        "name": "Create Shelfs",
+        "arabicName": "????? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTFLD"
+      },
+      {
+        "id": "cjkhwoiwp00p40a3571cgv7z8",
+        "name": "Show Recent",
+        "arabicName": "??? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHWRCT"
+      },
+      {
+        "id": "cjkhwopjm00p80a35puywtul4",
+        "name": "Cloud",
+        "arabicName": "???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CLOUD"
+      },
+      {
+        "id": "cjkhwov3c00pc0a35fdhxyuib",
+        "name": "Create Book Template",
+        "arabicName": "????? ???? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTBKTM"
+      },
+      {
+        "id": "cjkhwp1ca00pg0a35svdwbifk",
+        "name": "Create Album",
+        "arabicName": "????? ?????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTALM"
+      },
+      {
+        "id": "cjkhwp6ab00pk0a354nw5cjja",
+        "name": "create book",
+        "arabicName": "????? ????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTBK"
+      },
+      {
+        "id": "cjkhwph4a00ps0a35ccbso659",
+        "name": "Create Web book",
+        "arabicName": "????? ???? ???",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CRTWBK"
+      },
+      {
+        "id": "cjkhwpsf900q00a35rfkkv8uz",
+        "name": "Calls",
+        "arabicName": "?????????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "CALL"
+      },
+      {
+        "id": "cjkhwqd5n00qc0a35hzrqcf8o",
+        "name": "Access Recourse",
+        "arabicName": "????? ???????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "ACCSRCS"
+      },
+      {
+        "id": "cjkhwqm6m00qg0a35b3ah68nq",
+        "name": "Shelf Search",
+        "arabicName": "????? ?? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHFSRCH"
+      },
+      {
+        "id": "cjkhwr0kf00qs0a35abr3kkdt",
+        "name": "Backup Restore",
+        "arabicName": "????? ?????????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "BKUP"
+      },
+      {
+        "id": "cjkhwrdps00r40a35l1mks1ql",
+        "name": "Save as PDF",
+        "arabicName": "??? ?? ?? ??",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SVEPDF"
+      },
+      {
+        "id": "cjkhwrlbt00r80a35t9yomdl8",
+        "name": "Print created Book",
+        "arabicName": "????? ?????? ??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "PRTCBK"
+      },
+      {
+        "id": "cjkhwsqki00rx0a357qymeqzn",
+        "name": "Share",
+        "arabicName": "??????",
+        "isActive": true,
+        "featuresType": "APPMAIN",
+        "code": "SHRE"
+      },
+      {
+        "id": "cjkhwvx0w00sm0a354thkusmj",
+        "name": "Drawing",
+        "arabicName": "????? ??????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "DRAW"
+      },
+      {
+        "id": "cjkhww2tn00sr0a3519aab2l5",
+        "name": "Duplicate as Image",
+        "arabicName": "???? ?? ??????",
+        "isActive": true,
+        "featuresType": "PDF",
+        "code": "CRTDLBIMG"
+      }
+      
+    
+      
+    ]
+  }
+}
